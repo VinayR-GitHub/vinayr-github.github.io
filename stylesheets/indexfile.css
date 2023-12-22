@@ -1,5 +1,5 @@
 * {
-    font-family: Verdana, Tahoma;
+    font-family: 'Dosis', Verdana, Tahoma;
     box-sizing: border-box;
 }
 
@@ -9,6 +9,11 @@ a {
 
 a:hover {
     color: crimson;
+}
+
+header {
+    position: sticky;
+    top: 0;
 }
 
 nav a {
@@ -33,17 +38,42 @@ nav a:hover {
 .nav-bar {
     background-color: rgba(1, 21, 45, 0.9);
     height: 50px;
-    border-radius: 5px;
 }
 
 h1 {
-    font-size: 100px;
-    text-align: center;
+    font-size: 50px;
     color: darkred;
 }
 
 h2 {
-    font-size: 75px;
-    text-align: center;
+    font-size: 30px;
     color: darkblue;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.dom-col {
+    display: block;
+}
+
+.euclid {
+    display: block;
+}
+
+.dom-col .image {
+    float: left;
+}
+
+.dom-col .text {
+    float: left;
+}
+
+.euclid .text {
+    float: right;
+}
+
+.euclid .image {
+    float: right;
 }

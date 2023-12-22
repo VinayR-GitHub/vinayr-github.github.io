@@ -1,6 +1,11 @@
 * {
-    font-family: Verdana, Tahoma;
+    font-family: 'Dosis', Verdana, Tahoma;
     box-sizing: border-box;
+}
+
+header {
+    position: sticky;
+    top: 0;
 }
 
 nav a {
@@ -24,5 +29,6 @@ nav a:hover {
 .nav-bar {
     background-color: rgba(1, 21, 45, 0.9);
     height: 50px;
-    border-radius: 5px;
+    position: sticky;
+    top: 0;
 }
