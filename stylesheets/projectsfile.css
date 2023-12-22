@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Tahoma;
+    box-sizing: border-box;
+}
+
+nav a {
+    display: inline-block;
+    height: 50px;
+    width: 120px;
+    font-family: Garamond;
+    color: limegreen;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    z-index: 10;
+}
+
+nav a:hover {
+    background-color: rgba(255, 69, 0, 0.5);
+}
+
+.nav-bar {
+    background-color: rgba(1, 21, 45, 0.9);
+    height: 50px;
+    border-radius: 5px;
+}
