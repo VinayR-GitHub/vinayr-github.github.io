@@ -32,3 +32,11 @@ nav a:hover {
     position: sticky;
     top: 0;
 }
+
+.proof-title {
+    font-style: italic;
+}
+
+.statement-title {
+    font-style: oblique;
+}
