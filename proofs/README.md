@@ -36,10 +36,10 @@
 * Conway Circle Theorem
 * Existence of the Euler Line
 * Reuschle's Theorem
-* Pompeiu's Theorem
 * Butterfly Theorem
 * Monge's Theorem
 * Composition of Rotations
+* Hoehn's Theorem
 * Steiner-Lehmus Theorem
 * Bottema's Theorem
 * Morley's Trisector Theorem
