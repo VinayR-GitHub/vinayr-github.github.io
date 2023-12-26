@@ -59,3 +59,18 @@
 * Pappus' Hexagon Theorem
 * La Hire's Theorem
 * Symmedian Theorem
+
+### Number Theory:
+* Euler's Totient Theorem
+* Fermat's Little Theorem
+* Hensel's Lemma
+* Lifting the Exponent Lemma
+* Wilson's Theorem
+
+### Graph Theory:
+* Ramsey's Theorem
+* Erdős-Szekeres Theorem
+
+### Combinatorics:
+* Absolute Derangement Theorem
+* Recursive Derangement Theorem
