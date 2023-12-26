@@ -32,3 +32,15 @@ nav a:hover {
     position: sticky;
     top: 0;
 }
+
+.project-name {
+    font-size: 37px;
+}
+
+.project-link {
+    color: darkblue;
+}
+
+.project-link:hover {
+    color: crimson;
+}
