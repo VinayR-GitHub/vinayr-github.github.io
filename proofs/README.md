@@ -65,7 +65,16 @@
 * Fermat's Little Theorem
 * Hensel's Lemma
 * Lifting the Exponent Lemma
+* Sum of Two Squares Theorem
 * Wilson's Theorem
+* Chicken McNugget Theorem
+* Fermat's Theorem on Sums of Two Squares
+* Legendre's Formula
+* Lucas' Theorem
+* Law of Quadratic Reciprocity
+* Gauss' Lemma for Quadratic Residues
+* Gauss' Lemma for Polynomial Primitivity
+* Kummer's Theorem
 
 ### Functional Equations:
 * IMO 2019: Q1
