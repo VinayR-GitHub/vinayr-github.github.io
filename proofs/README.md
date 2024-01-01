@@ -67,10 +67,6 @@
 * Lifting the Exponent Lemma
 * Wilson's Theorem
 
-### Graph Theory:
-* Ramsey's Theorem
-* Erdős-Szekeres Theorem
-
-### Combinatorics:
-* Absolute Derangement Theorem
-* Recursive Derangement Theorem
+### Functional Equations:
+* IMO 2019: Q1
+* IMO 2022: Q2
