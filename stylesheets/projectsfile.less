@@ -1,0 +1,52 @@
+@nav_text: limegreen;
+@nav_base: rgba(1, 21, 45, 0.9);
+@nav_hover: rgba(255, 69, 0, 0.5);
+@nav_textselect: yellowgreen;
+
+* {
+    font-family: 'Dosis', Verdana, Tahoma;
+    box-sizing: border-box;
+}
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    display: inline-block;
+    height: 50px;
+    width: 120px;
+    font-family: Garamond;
+    color: @nav_text;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    z-index: 10;
+}
+
+nav a:hover {
+    background-color: @nav_hover;
+    color: @nav_textselect;
+}
+
+.nav-bar {
+    background-color: @nav_base;
+    height: 50px;
+    position: sticky;
+    top: 0;
+}
+
+.project-name {
+    font-size: 37px;
+}
+
+.project-link {
+    color: darkblue;
+}
+
+.project-link:hover {
+    color: crimson;
+}
