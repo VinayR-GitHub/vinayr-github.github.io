@@ -33,22 +33,10 @@ nav a:hover {
     top: 0;
 }
 
-.proof-title {
-    font-style: italic;
-}
-
-.statement-title {
-    font-style: oblique;
-}
-
 p, h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
 p {
     display: inline;
-}
-
-.equation {
-    font-family: 'Times New Roman', Times, serif;
 }
