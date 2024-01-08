@@ -9,18 +9,14 @@ header {
 nav a {
   display: inline-block;
   height: 50px;
-  width: 180px;
+  width: 205px;
   font-family: Garamond;
   color: limegreen;
   text-align: center;
   font-size: 18px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding: 15px 5px;
   text-decoration: none;
   z-index: 10;
-}
-.long-tab {
-  width: 180px;
 }
 nav a:hover {
   background-color: rgba(255, 69, 0, 0.5);
