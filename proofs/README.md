@@ -14,6 +14,8 @@
 - [] Nesbitt's Inequality
 - [] Shapiro Inequality
 - [] Minkowski's Inequality
+- [] Power Mean Inequality
+- [] Bernoulli Inequality
 
 ### Geometry:
 - [] Japanese Theorem for Cyclic Polygons
@@ -75,3 +77,4 @@
 - [] Gauss' Lemma for Quadratic Residues
 - [] Gauss' Lemma for Polynomial Primitivity
 - [] Kummer's Theorem
+- [] Four Number Lemma
