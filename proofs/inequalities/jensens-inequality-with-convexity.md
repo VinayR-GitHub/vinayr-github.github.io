@@ -8,7 +8,7 @@ draft = false
 Jensen's inequality has long remained a staple tool in the proof on inequalities, and can be applied to both olympiad and research settings. In this post, I will prove for the case of the inequality for convex functions.
 
 ## Statement
-For $ \varphi $ concave in $ [a , b] $ and $ (x_i)_{i \in I} \subset [a , b] $, $ (m_i)_{i \in I} \subset \mathbb{R}^{+}$ with $ i \subset \mathbb{N} $, it follows that:
+For $ \varphi $ convex in $ [a , b] $ and $ (x_i)_{i \in I} \subset [a , b] $, $ (m_i)_{i \in I} \subset \mathbb{R}^{+}$ with $ i \subset \mathbb{N} $, it follows that:
 $$ \varphi \left(\frac{\sum_{i = 1}^{n} {m_i x_i}}{\sum_{i = 1}^{n} {m_i}} \right) \le \frac{\sum_{i = 1}^{n} {m_i \varphi (x_i)}}{\sum_{i = 1}^{n} {m_i}} $$
 
 ## Proof
