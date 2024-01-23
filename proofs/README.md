@@ -4,7 +4,7 @@
 ### Inequalities:
 - [ ] Sedrakyan's Inequality
 - [x] Cauchy-Schwarz Inequality
-- [ ] QM-AM-GM-HM Inequality
+- [x] QM-AM-GM-HM Inequality
 - [ ] Weighted QM-AM-GM-HM Inequality
 - [ ] Hölder's Inequality
 - [ ] Rearrangement Inequality
@@ -35,9 +35,7 @@
 - [ ] Carnot's Theorem for Perpendiculars
 - [ ] Heron's Formula
 - [ ] Bretschneider's Formula
-- [ ] Conway Circle Theorem
 - [ ] Existence of the Euler Line
-- [ ] Reuschle's Theorem
 - [ ] Butterfly Theorem
 - [ ] Monge's Theorem
 - [ ] Steiner-Lehmus Theorem
